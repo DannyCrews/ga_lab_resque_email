@@ -1,5 +1,5 @@
-GIT
-  remote: git://github.com/KNEIP/resque.git
+
+  remote: https://github.com/KNEIP/resque.git
   revision: e756be27a278f910de0d30b7e67a581ebd436991
   specs:
     resque (2.0.0.pre.1)
